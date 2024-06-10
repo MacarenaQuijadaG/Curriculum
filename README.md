@@ -2,7 +2,7 @@
 ## Descripción
 Este desarrollo consiste en una pagina que contenga un curriculum con html y css.
 ## Visuales
-![1](https://github.com/MacarenaQuijadaG/Curriculum/assets/50925916/ce89bb01-4ba0-4d01-bd67-f529fac530dd)
+
 ## Empezando 🚀
 
 Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
