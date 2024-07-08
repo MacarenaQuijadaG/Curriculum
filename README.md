@@ -1,7 +1,6 @@
 # Curriculum
 ## Descripción
 Este desarrollo consiste en una pagina que contenga un curriculum con html y css.
-## Visuales
 
 ## Empezando 🚀
 
